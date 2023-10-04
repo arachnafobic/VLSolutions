@@ -2,8 +2,8 @@
 // @name         VL Larger Chatbox
 // @namespace    https://vaughn.live/
 // @version      0.1
-// @updateURL    https://github.com/arachnafobic/VLSolutions/raw/main/Larger-Chatbox.js
-// @downloadURL  https://github.com/arachnafobic/VLSolutions/raw/main/Larger-Chatbox.js
+// @updateURL    https://github.com/arachnafobic/VLSolutions/raw/main/Larger-Chatbox.user.js
+// @downloadURL  https://github.com/arachnafobic/VLSolutions/raw/main/Larger-Chatbox.user.js
 // @description  Removes the spotlightbox which cause the chat to be larger.
 // @author       arachnafobic
 // @match        https://vaughn.live/*
