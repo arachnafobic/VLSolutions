@@ -21,5 +21,5 @@ To Remove the top bar add the final script aswell.
 [TheatreMode-RemoveTopbar.user.js](https://github.com/arachnafobic/VLSolutions/raw/main/TheatreMode-RemoveTopbar.user.js)  
 
 if you run all 4 scripts together, a channel will look like this :  
-![Screenshot](VL_CustomTheatherMode-blurs.png)  
+![Screenshot](VL_CustomTheatherMode.png)  
 
