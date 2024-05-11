@@ -32,7 +32,7 @@
     addGlobalStyle('.the_content.the_content { width: ' + MyWidth + ' !important; height: ' + MyHeight + ' !important; }');
     addGlobalStyle('.vs_v9_stream_wrapper { width: ' + MyWidth + ' !important; height: ' + MyHeight + ' !important; }');
     addGlobalStyle('.vs_v9_stream_content { width: ' + MyWidth + ' !important; height: ' + MyHeight + ' !important; }');
-    addGlobalStyle('.vs_v9_stream_player { width: ' + MyWidth + ' !important; height: ' + MyHeight + ' !important; }');
+    // addGlobalStyle('.vs_v9_stream_player { width: ' + MyWidth + ' !important; height: ' + MyHeight + ' !important; }');
     addGlobalStyle('.abvsContainer { width: ' + MyWidth + ' !important; height: ' + MyHeight + ' !important; }');
     addGlobalStyle('.abvsContainer.abvsContainer { width: ' + MyWidth + ' !important; height: ' + MyHeight + ' !important; }');
     addGlobalStyle('.simplebar-wrapper { width: ' + MyWidth + ' !important; height: ' + MyHeight + ' !important; }');
@@ -42,7 +42,7 @@
     addGlobalStyle('.simplebar-content-wrapper { width: ' + MyWidth + ' !important; height: ' + MyHeight + ' !important; }');
     addGlobalStyle('.simplebar-content { width: ' + MyWidth + ' !important; height: ' + MyHeight + ' !important; }');
     addGlobalStyle('.vidPlayer { width: ' + MyWidth + ' !important; height: ' + MyHeight + ' !important; }');
-    addGlobalStyle('.vidPlayer { top: -100% !important; }');
+    // addGlobalStyle('.vidPlayer { top: -100% !important; }');
     addGlobalStyle('.MvnHlsPlayer { width: ' + MyWidth + ' !important; height: ' + MyHeight + ' !important; }');
     addGlobalStyle('.MvnHlsPlayer.MvnHlsPlayer_wrapper { width: ' + MyWidth + ' !important; height: ' + MyHeight + ' !important; }');
     addGlobalStyle('.MvnHlsPlayerBox { width: ' + MyWidth + ' !important; height: ' + MyHeight + ' !important; }');
